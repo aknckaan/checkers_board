@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a63e76d0-34ce-4b91-92eb-2e80c6265a11" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="checkers_board" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="923">
+              <caret line="1188" column="46" lean-forward="false" selection-start-line="1188" selection-start-column="46" selection-end-line="1188" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#loadBoard#0;class#Main#0" expanded="false" />
+                <element signature="method#loadOptions#0;class#Main#0" expanded="false" />
+                <element signature="class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#Animator#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#validMove#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#availableMove#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#mouseClicked#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#mousePressed#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#moveAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#selectAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#updateForced#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#actionPerformed#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#cleanDead#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="method#aiMakeMove#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="e#15333#15348#0" expanded="true" />
+                <element signature="method#windowClosed#0;class#Animator#0;class#Main#0" expanded="false" />
+                <element signature="class#Options#0;class#Main#0" expanded="false" />
+                <element signature="method#Board#0;class#Board#0;class#Main#0" expanded="false" />
+                <element signature="method#updateColors#0;class#Board#0;class#Main#0" expanded="false" />
+                <element signature="method#getState#0;class#Board#0;class#Main#0" expanded="false" />
+                <element signature="method#setState#0;class#Board#0;class#Main#0" expanded="false" />
+                <element signature="method#resize#0;class#Board#0;class#Main#0" expanded="false" />
+                <element signature="method#resetBoardv2#0;class#Board#0;class#Main#0" expanded="false" />
+                <element signature="method#resetBoard#0;class#Board#0;class#Main#0" expanded="false" />
+                <element signature="method#isFinished#0;class#Board#0;class#Main#0" expanded="false" />
+                <element signature="method#removePiece#0;class#Board#0;class#Main#0" expanded="false" />
+                <element signature="method#addPiece#0;class#Board#0;class#Main#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Generator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Generator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4620">
+              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+              <folding>
+                <element signature="method#genNextJump#0;class#Generator#0" expanded="false" />
+                <element signature="method#availableMove#0;class#Generator#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptionsMenu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OptionsMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="58" column="55" lean-forward="false" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PieceType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PieceType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Minimax.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Minimax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#update#0;class#Minimax#0" expanded="false" />
+                <element signature="method#generateTree#0;class#Minimax#0" expanded="false" />
+                <element signature="method#pruneTree#0;class#Minimax#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="98" column="5" lean-forward="false" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+              <folding>
+                <element signature="method#Node#0;class#Node#0" expanded="false" />
+                <element signature="method#Node#1;class#Node#0" expanded="false" />
+                <element signature="method#copy#0;class#Node#0" expanded="false" />
+                <element signature="method#isLooping#0;class#Node#0" expanded="false" />
+                <element signature="method#addNodes#0;class#Node#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>forcedPieces</find>
+      <find>forced</find>
+      <find>]</find>
+      <find>BufferedImage</find>
+      <find>turn</find>
+      <find>prev</find>
+      <find>Minimax</find>
+      <find>mm</find>
+      <find>colors</find>
+      <find>number_gen</find>
+      <find>calculateHeuristic</find>
+      <find>om</find>
+      <find>Jump</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main.java" />
+        <option value="$PROJECT_DIR$/src/Options.java" />
+        <option value="$PROJECT_DIR$/src/Board.java" />
+        <option value="$PROJECT_DIR$/src/MinimaxAI.java" />
+        <option value="$PROJECT_DIR$/src/PieceType.java" />
+        <option value="$PROJECT_DIR$/src/MiniMax.java" />
+        <option value="$PROJECT_DIR$/src/Generator.java" />
+        <option value="$PROJECT_DIR$/src/ProgressBar.java" />
+        <option value="$PROJECT_DIR$/src/OptionsMenu.java" />
+        <option value="$PROJECT_DIR$/src/Node.java" />
+        <option value="$PROJECT_DIR$/src/Minimax.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="checkers_board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkers_board" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="checkers_board" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkers_board" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="checkers_board" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a63e76d0-34ce-4b91-92eb-2e80c6265a11" name="Default" comment="" />
+      <created>1524326362356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524326362356</updated>
+      <workItem from="1524326365999" duration="4658000" />
+      <workItem from="1524485770172" duration="8000" />
+      <workItem from="1524485810167" duration="14892000" />
+      <workItem from="1524567682206" duration="26153000" />
+      <workItem from="1524671433678" duration="57414000" />
+      <workItem from="1525036268064" duration="19419000" />
+      <workItem from="1525109729042" duration="19720000" />
+      <workItem from="1525439592013" duration="124000" />
+      <workItem from="1525440230333" duration="1445000" />
+      <workItem from="1525443873531" duration="21000" />
+      <workItem from="1525444062341" duration="32000" />
+      <workItem from="1525444211096" duration="11000" />
+      <workItem from="1525447946809" duration="3969000" />
+      <workItem from="1525513839723" duration="59000" />
+      <workItem from="1525616675282" duration="384000" />
+      <workItem from="1525876809233" duration="901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="149210000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.4952381" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326" sideWeight="0.44047618" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326" sideWeight="0.5595238" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940476" sideWeight="0.49333334" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.281" sideWeight="0.49761903" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31626505" sideWeight="0.50666666" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="595" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/OptionsMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="58" column="55" lean-forward="false" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#update#0;class#Minimax#0" expanded="false" />
+            <element signature="method#generateTree#0;class#Minimax#0" expanded="false" />
+            <element signature="method#pruneTree#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="98" column="5" lean-forward="false" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+          <folding>
+            <element signature="method#Node#0;class#Node#0" expanded="false" />
+            <element signature="method#Node#1;class#Node#0" expanded="false" />
+            <element signature="method#copy#0;class#Node#0" expanded="false" />
+            <element signature="method#isLooping#0;class#Node#0" expanded="false" />
+            <element signature="method#addNodes#0;class#Node#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loadBoard#0;class#Main#0" expanded="false" />
+            <element signature="method#loadOptions#0;class#Main#0" expanded="false" />
+            <element signature="class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#Animator#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#validMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#moveAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#selectAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#updateForced#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#cleanDead#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#aiMakeMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="e#15333#15348#0" expanded="true" />
+            <element signature="method#windowClosed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="class#Options#0;class#Main#0" expanded="false" />
+            <element signature="method#Board#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#updateColors#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#getState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#setState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resize#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoardv2#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoard#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#isFinished#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#removePiece#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#addPiece#0;class#Board#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5280">
+          <caret line="352" column="39" lean-forward="false" selection-start-line="352" selection-start-column="39" selection-end-line="352" selection-end-column="39" />
+          <folding>
+            <element signature="method#genNextJump#0;class#Generator#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Generator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OptionsMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="58" column="55" lean-forward="false" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PieceType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#update#0;class#Minimax#0" expanded="false" />
+            <element signature="method#generateTree#0;class#Minimax#0" expanded="false" />
+            <element signature="method#pruneTree#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="98" column="5" lean-forward="false" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+          <folding>
+            <element signature="method#Node#0;class#Node#0" expanded="false" />
+            <element signature="method#Node#1;class#Node#0" expanded="false" />
+            <element signature="method#copy#0;class#Node#0" expanded="false" />
+            <element signature="method#isLooping#0;class#Node#0" expanded="false" />
+            <element signature="method#addNodes#0;class#Node#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loadBoard#0;class#Main#0" expanded="false" />
+            <element signature="method#loadOptions#0;class#Main#0" expanded="false" />
+            <element signature="class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#Animator#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#validMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#moveAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#selectAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#updateForced#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#cleanDead#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#aiMakeMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="e#15333#15348#0" expanded="true" />
+            <element signature="method#windowClosed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="class#Options#0;class#Main#0" expanded="false" />
+            <element signature="method#Board#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#updateColors#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#getState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#setState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resize#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoardv2#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoard#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#isFinished#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#removePiece#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#addPiece#0;class#Board#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5280">
+          <caret line="352" column="39" lean-forward="true" selection-start-line="352" selection-start-column="39" selection-end-line="352" selection-end-column="39" />
+          <folding>
+            <element signature="method#genNextJump#0;class#Generator#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Generator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PieceType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OptionsMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="58" column="55" lean-forward="true" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#update#0;class#Minimax#0" expanded="false" />
+            <element signature="method#generateTree#0;class#Minimax#0" expanded="false" />
+            <element signature="method#pruneTree#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+          <folding>
+            <element signature="method#Node#0;class#Node#0" expanded="false" />
+            <element signature="method#Node#1;class#Node#0" expanded="false" />
+            <element signature="method#copy#0;class#Node#0" expanded="false" />
+            <element signature="method#isLooping#0;class#Node#0" expanded="false" />
+            <element signature="method#addNodes#0;class#Node#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loadBoard#0;class#Main#0" expanded="false" />
+            <element signature="method#loadOptions#0;class#Main#0" expanded="false" />
+            <element signature="class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#Animator#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#validMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#moveAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#selectAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#updateForced#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#cleanDead#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#aiMakeMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="e#15333#15348#0" expanded="true" />
+            <element signature="method#windowClosed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="class#Options#0;class#Main#0" expanded="false" />
+            <element signature="method#Board#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#updateColors#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#getState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#setState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resize#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoardv2#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoard#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#isFinished#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#removePiece#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#addPiece#0;class#Board#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="112" column="17" lean-forward="true" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+          <folding>
+            <element signature="method#genNextJump#0;class#Generator#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Generator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OptionsMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="72" column="62" lean-forward="false" selection-start-line="72" selection-start-column="62" selection-end-line="72" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PieceType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#update#0;class#Minimax#0" expanded="false" />
+            <element signature="method#generateTree#0;class#Minimax#0" expanded="false" />
+            <element signature="method#pruneTree#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="method#Node#0;class#Node#0" expanded="false" />
+            <element signature="method#Node#1;class#Node#0" expanded="false" />
+            <element signature="method#copy#0;class#Node#0" expanded="false" />
+            <element signature="method#isLooping#0;class#Node#0" expanded="false" />
+            <element signature="method#addNodes#0;class#Node#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loadBoard#0;class#Main#0" expanded="false" />
+            <element signature="method#loadOptions#0;class#Main#0" expanded="false" />
+            <element signature="class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#Animator#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#validMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#moveAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#selectAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#updateForced#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#cleanDead#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#aiMakeMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="e#15333#15348#0" expanded="true" />
+            <element signature="method#windowClosed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="class#Options#0;class#Main#0" expanded="false" />
+            <element signature="method#Board#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#updateColors#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#getState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#setState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resize#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoardv2#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoard#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#isFinished#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#removePiece#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#addPiece#0;class#Board#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="186" column="0" lean-forward="false" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+          <folding>
+            <element signature="method#genNextJump#0;class#Generator#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Generator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="93" column="22" lean-forward="false" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#update#0;class#Minimax#0" expanded="false" />
+            <element signature="method#generateTree#0;class#Minimax#0" expanded="false" />
+            <element signature="method#pruneTree#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loadBoard#0;class#Main#0" expanded="false" />
+            <element signature="method#loadOptions#0;class#Main#0" expanded="false" />
+            <element signature="class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#Animator#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#validMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#moveAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#selectAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#updateForced#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#cleanDead#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#aiMakeMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="e#15333#15348#0" expanded="true" />
+            <element signature="method#windowClosed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="class#Options#0;class#Main#0" expanded="false" />
+            <element signature="method#Board#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#updateColors#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#getState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#setState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resize#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoardv2#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoard#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#isFinished#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#removePiece#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#addPiece#0;class#Board#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="method#genNextJump#0;class#Generator#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Generator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#update#0;class#Minimax#0" expanded="false" />
+            <element signature="method#generateTree#0;class#Minimax#0" expanded="false" />
+            <element signature="method#pruneTree#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loadBoard#0;class#Main#0" expanded="false" />
+            <element signature="method#loadOptions#0;class#Main#0" expanded="false" />
+            <element signature="class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#Animator#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#validMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#moveAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#selectAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#updateForced#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#cleanDead#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#aiMakeMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="e#15333#15348#0" expanded="true" />
+            <element signature="method#windowClosed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="class#Options#0;class#Main#0" expanded="false" />
+            <element signature="method#Board#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#updateColors#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#getState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#setState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resize#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoardv2#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoard#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#isFinished#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#removePiece#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#addPiece#0;class#Board#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Board.java" />
+    <entry file="file://$PROJECT_DIR$/src/Options.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loadBoard#0;class#Main#0" expanded="false" />
+            <element signature="method#loadOptions#0;class#Main#0" expanded="false" />
+            <element signature="class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#Animator#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#validMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#moveAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#selectAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#updateForced#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#cleanDead#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#aiMakeMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="e#15333#15348#0" expanded="true" />
+            <element signature="method#windowClosed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="class#Options#0;class#Main#0" expanded="false" />
+            <element signature="method#Board#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#updateColors#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#getState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#setState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resize#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoardv2#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoard#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#isFinished#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#removePiece#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#addPiece#0;class#Board#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Board.java" />
+    <entry file="file://$PROJECT_DIR$/src/Options.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loadBoard#0;class#Main#0" expanded="false" />
+            <element signature="method#loadOptions#0;class#Main#0" expanded="false" />
+            <element signature="class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#Animator#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#validMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#moveAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#selectAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#updateForced#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#cleanDead#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#aiMakeMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="e#15333#15348#0" expanded="true" />
+            <element signature="method#windowClosed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="class#Options#0;class#Main#0" expanded="false" />
+            <element signature="method#Board#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#updateColors#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#getState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#setState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resize#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoardv2#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoard#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#isFinished#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#removePiece#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#addPiece#0;class#Board#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Options.java" />
+    <entry file="file://$PROJECT_DIR$/src/Board.java" />
+    <entry file="file://$PROJECT_DIR$/src/king.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="106" column="13" lean-forward="false" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimaxAI.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/locks/LockSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/misc/Unsafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="2274" column="23" lean-forward="false" selection-start-line="2274" selection-start-column="23" selection-end-line="2274" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.desktop/com/apple/laf/AquaImageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="462" column="0" lean-forward="false" selection-start-line="462" selection-start-column="0" selection-end-line="462" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/JComboBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="198" column="12" lean-forward="false" selection-start-line="198" selection-start-column="11" selection-end-line="198" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/WindowListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="69" column="16" lean-forward="false" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProgressBar.java" />
+    <entry file="file://$PROJECT_DIR$/src/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding>
+            <element signature="method#genNextJump#0;class#Generator#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Generator#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OptionsMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="58" column="55" lean-forward="false" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="98" column="5" lean-forward="false" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+          <folding>
+            <element signature="method#Node#0;class#Node#0" expanded="false" />
+            <element signature="method#Node#1;class#Node#0" expanded="false" />
+            <element signature="method#copy#0;class#Node#0" expanded="false" />
+            <element signature="method#isLooping#0;class#Node#0" expanded="false" />
+            <element signature="method#addNodes#0;class#Node#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PieceType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#update#0;class#Minimax#0" expanded="false" />
+            <element signature="method#generateTree#0;class#Minimax#0" expanded="false" />
+            <element signature="method#pruneTree#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="923">
+          <caret line="1188" column="46" lean-forward="false" selection-start-line="1188" selection-start-column="46" selection-end-line="1188" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#loadBoard#0;class#Main#0" expanded="false" />
+            <element signature="method#loadOptions#0;class#Main#0" expanded="false" />
+            <element signature="class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#Animator#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#validMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#availableMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#moveAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#selectAPiece#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#updateForced#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#cleanDead#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="method#aiMakeMove#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="e#15333#15348#0" expanded="true" />
+            <element signature="method#windowClosed#0;class#Animator#0;class#Main#0" expanded="false" />
+            <element signature="class#Options#0;class#Main#0" expanded="false" />
+            <element signature="method#Board#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#updateColors#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#getState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#setState#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resize#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoardv2#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#resetBoard#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#isFinished#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#removePiece#0;class#Board#0;class#Main#0" expanded="false" />
+            <element signature="method#addPiece#0;class#Board#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>checkers_board</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
